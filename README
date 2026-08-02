@@ -1,0 +1,8 @@
+Project Title: Identifying VSR Function in Novel Genomes using Machine Learning
+
+Project Description:
+Developed machine learning models in Python (PyTorch, Scikit-Learn) to identify Viral Suppressors of 
+RNA Silencing (VSRs) and assist the engineering of pathogen-resistant plants. Collected a balanced dataset 
+of 300 viruses from UniProt and trained six distinct models including XGBoost, LightGBM, and SVM, while 
+optimizing for overfitting. Achieved a peak predictive accuracy of 80% through hyperparameter tuning of 
+a feed-forward neural network.
